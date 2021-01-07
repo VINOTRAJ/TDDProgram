@@ -1,4 +1,4 @@
-package co.com.practice.util.SecondSmall;
+package co.com.practice.util.StringsortinAlphabetOrder;
 
 import static org.junit.Assert.assertTrue;
 
