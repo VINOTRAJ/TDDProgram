@@ -1,3 +1,8 @@
+/*
+ * @author:Vinoth Rajendran
+ * desc:Create a method which accepts an integer array, reverse the numbers in the array and returns the resulting array in sorted order
+ */
+
 package co.com.practice.util.reverseanumber;
 
 public class reverseanumber {
