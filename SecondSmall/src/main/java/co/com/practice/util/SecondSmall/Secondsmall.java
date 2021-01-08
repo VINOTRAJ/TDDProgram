@@ -1,3 +1,9 @@
+/*
+ * @author:Vinoth Rajendran
+ * desc:Create a method which accepts an array of integer elements and return the second smallest element in the array
+ */
+
+
 package co.com.practice.util.SecondSmall;
 
 public class Secondsmall {
